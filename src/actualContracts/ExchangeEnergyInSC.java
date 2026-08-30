@@ -1,7 +1,6 @@
 package actualContracts;
 
 import abstractSC.AbstractSC;
-import abstractSC.AbstractTransaction;
 import abstractSC.VerificationRule;
 
 public class ExchangeEnergyInSC extends AbstractSC {
