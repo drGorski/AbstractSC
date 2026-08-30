@@ -70,5 +70,5 @@ To test both smart contracts, run the ``RunTestSuite`` class.
 The figure below shows the results of executing the test suite for both smart contracts.
 
 <p align="center">
-  <img src="RunTestSuite.png" alt="Test results" width="400">
+  <img src="RunTestSuite.png" alt="Test results" width="500">
 </p>
